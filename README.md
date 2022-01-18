@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, Im Victoria (She/Her)! 🏳️‍⚧️ 👋
+A passionate Software Engineer interested in **Web Development**, **Computer Vision**, **Scientific Computing**, **System Design**, and everything that makes the world spin 🌎.
 
-<!--
-**vscarth/vscarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills in 🤓:
+**Vue**, React, Express, Koa, **C++/C**, TailwindCSS, **AWS VPC/EC2/S3/Route 53/ElastiCache**, Moaca/Chai, Python, MySQL, MongoDB/Mongoose, **Apache**, **Node.js**, Docker
 
-Here are some ideas to get you started:
+### Looking to learn 📚:
+GO, Rust, Neo4J, Redis, GraphQL, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Open for work and consulting 💼:
+**Contact me:**  
+**LinkedIn**: https://www.linkedin.com/in/victoriascarth/  
+**Twitter**: https://twitter.com/victoriascarth  
