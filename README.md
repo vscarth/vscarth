@@ -1,11 +1,5 @@
-### Hi, Im Victoria (She/Her)! 🏳️‍⚧️ 👋
-A passionate Software Engineer interested in **Web Development**, **Computer Vision**, **Scientific Computing**, **System Design**, and everything that makes the world spin 🌎.
-
-### Skills in 🤓:
-**Vue**, React, Express, Koa, **C++/C**, TailwindCSS, **AWS VPC/EC2/S3/Route 53/ElastiCache**, Moaca/Chai, Python, MySQL, MongoDB/Mongoose, **Apache**, **Node.js**, Docker
-
-### Looking to learn 📚:
-GO, Rust, Neo4J, Redis, GraphQL, Kubernetes
+### Hi, I'm Victoria (She/Her)! 🏳️‍⚧️ 👋
+A passionate Software Engineer interested in **Cloud Services, Micro Service Architectures, Infrastructure as Code**, and everything DevOps-related! I enjoy programming in **C++/C, Javascript/Typescript, and Terraform**. My cloud journey has mostly been powered by Amazon Web Services with **EC2, ECS, Lambda, DynamoDB, Aurora, and API Gateway**.
 
 ### Open for work and consulting 💼:
 **Contact me:**  
